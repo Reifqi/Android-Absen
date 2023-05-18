@@ -4,9 +4,13 @@ Membuat Aplikasi Absensi dengan Android Studio dimana aplikasi ini memiliki bebe
 User akan memasukkan username dan password untuk memasuki aplikasi.
 <img width="313" alt="image" src="https://github.com/Reifqi/Android-Absen/assets/90368576/54c2d524-4f9c-4afa-9433-7fd32d19c1ec">
 
+
+
 -Dashboard
 Adalah halaman pertama setelah login.
 <img width="325" alt="image" src="https://github.com/Reifqi/Android-Absen/assets/90368576/c9d892c7-d80d-4eb3-82ef-7bceb55c5fe7">
+
+
 
 -Absen masuk
 Adalah fitur dimana user dapat mencatat kehadirannya ketika dia masuk.
