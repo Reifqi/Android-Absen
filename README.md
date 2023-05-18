@@ -1,3 +1,8 @@
+# Anggota
+M. Rifqi Maulana(2008107010048)
+Teuku Zhilal Muhana
+Arif Munandar
+
 # Absensi-Apps
 Membuat Aplikasi Absensi dengan Android Studio dimana aplikasi ini memiliki beberapa fitur diantaranya
 -Login
