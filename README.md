@@ -19,7 +19,7 @@ adalah fitur dimana user dapat membuat perizinan ke suatu tempat.
 adalah fitur untuk mencatat segala absensi user yang telah dilakukan sebelumnya.
 
 
-#Gambar
+# Gambar
 <img width="313" alt="image" src="https://github.com/Reifqi/Android-Absen/assets/90368576/54c2d524-4f9c-4afa-9433-7fd32d19c1ec">
 <img width="325" alt="image" src="https://github.com/Reifqi/Android-Absen/assets/90368576/c9d892c7-d80d-4eb3-82ef-7bceb55c5fe7">
 <img width="335" alt="image" src="https://github.com/Reifqi/Android-Absen/assets/90368576/be0f5146-de40-48d4-8fcd-fe61371c8b4f">
